@@ -1,0 +1,7 @@
+{
+  "name": "Afro Luna Restaurant",
+  "description": "A premium Afro-fusion restaurant website featuring dynamic menus, reservations, and an AI concierge.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
